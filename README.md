@@ -19,6 +19,6 @@ In my spare time, I enjoy playing a variety of sports at a competitive level :wo
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50">
 
 
-[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiebeard&count_private=true&show_icons=true&theme=react)
+![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiebeard&count_private=true&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiebeard&layout=compact&langs_count=8)](https://github.com/sophiebeard/github-readme-stats)
